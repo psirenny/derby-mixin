@@ -1,0 +1,31 @@
+{
+  "author": "Dennis Torres <djtorres0@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/psirenny/derby-mixin/issues"
+  },
+  "dependencies": {
+    "lodash": "^3.1.0"
+  },
+  "devDependencies": {
+    "tape": "^3.5.0"
+  },
+  "description": "Extend your Derby JS components with reusable mixins.",
+  "keywords": [
+    "component",
+    "derby",
+    "extend",
+    "mixin"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "derby-mixin",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psirenny/derby-mixin.git"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "version": "1.0.0"
+}
