@@ -2,7 +2,7 @@ Derby Mixin
 ===========
 
 Extend your Derby JS components with reusable mixins.  
-It ensures the standard lifecycle methods `init()`, `create()` and `destroy()` are called even if they are defined by the component.
+It ensures the standard lifecycle methods `init()`, `create()` and `destroy()` are always called.
 
 Installation
 ------------
